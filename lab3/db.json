@@ -2,14 +2,14 @@
   "artists": [
     { 
         "id": 1,
-        "name": "Twenty One Pilots",
-        "cover":"twenty_one_pilots",
-        "bio":"Twenty One Pilots (stylized in all lowercase or as twenty øne piløts) is an American musical duo from Columbus, Ohio. The band was formed in 2009 by lead vocalist Tyler Joseph along with Nick Thomas and Chris Salih, who both left in 2011. Since their departure, the line-up has consisted of Joseph and drummer Josh Dun.",
+        "name": "Jimi Hendrix",
+        "cover":"jimi_hendrix",
+        "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
         "albums": [
-            {"albumId":"a1","title":"Vessel","year":2013,"cover":"vessel","price":100},
-            {"albumId":"a2","title":"Blurryface","year":2015,"cover":"blurryface","price":150},
-            {"albumId":"a3","title":"Trench","year":2018,"cover":"trench","price":150},
-            {"albumId":"a4","title":"Scaled and Icy","year":2021,"cover":"scaled_and_icey","price":100}
+            {"albumId":"a1","title":"Electric Ladyland","year":1968,"cover":"electric-ladyland","price":20},
+            {"albumId":"a2","title":"Experience","year":1971,"cover":"experienced","price":25},
+            {"albumId":"a3","title":"Isle of Wright","year":1971,"cover":"isle_of_wright","price":15},
+            {"albumId":"a4","title":"Band of Gypsys","year":1970,"cover":"band_of_gypsys","price":10}
         ],
         "genre":"rock, blues"
     },
@@ -50,19 +50,6 @@
             {"albumId":"d3","title":"Animals","year":1977,"cover":"animals","price":15}
         ],
         "genre":"Rock"
-    },
-    { 
-        "id": 5,
-        "name": "Jimi Hendrix",
-        "cover":"jimi_hendrix",
-        "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "albums": [
-            {"albumId":"a1","title":"Electric Ladyland","year":1968,"cover":"electric-ladyland","price":20},
-            {"albumId":"a2","title":"Experience","year":1971,"cover":"experienced","price":25},
-            {"albumId":"a3","title":"Isle of Wright","year":1971,"cover":"isle_of_wright","price":15},
-            {"albumId":"a4","title":"Band of Gypsys","year":1970,"cover":"band_of_gypsys","price":10}
-        ],
-        "genre":"rock, blues"
     }
   ]
 }
